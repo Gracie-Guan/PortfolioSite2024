@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioSite2024/static/css/main.813849d2.css",
-    "main.js": "/PortfolioSite2024/static/js/main.5e0a3654.js",
+    "main.css": "/PortfolioSite2024/static/css/main.3ea3680e.css",
+    "main.js": "/PortfolioSite2024/static/js/main.55bb77c8.js",
     "static/js/453.7476e934.chunk.js": "/PortfolioSite2024/static/js/453.7476e934.chunk.js",
     "static/media/vc4.gif": "/PortfolioSite2024/static/media/vc4.e2e976305c2f0cd18d52.gif",
     "static/media/shoes.png": "/PortfolioSite2024/static/media/shoes.974d27bc595388424600.png",
@@ -9,6 +9,7 @@
     "static/media/tcdrenters-walkthrough.gif": "/PortfolioSite2024/static/media/tcdrenters-walkthrough.0f12e2b9d9a36c80d82d.gif",
     "static/media/vc2.gif": "/PortfolioSite2024/static/media/vc2.2848f65e927e9826b8dc.gif",
     "static/media/vc3.gif": "/PortfolioSite2024/static/media/vc3.b9d630fe513da11518a1.gif",
+    "static/media/kingofcomedy.jpeg": "/PortfolioSite2024/static/media/kingofcomedy.8962178c3eebf16f0c33.jpeg",
     "static/media/chimelong.jpg": "/PortfolioSite2024/static/media/chimelong.6e9e629a01c3a645343f.jpg",
     "static/media/FinalDesign.png": "/PortfolioSite2024/static/media/FinalDesign.494733b06aec1cf1c9b6.png",
     "static/media/Wireframe.png": "/PortfolioSite2024/static/media/Wireframe.30e5d123ed2408c8ff2d.png",
@@ -32,6 +33,7 @@
     "static/media/CNV000032.jpg": "/PortfolioSite2024/static/media/CNV000032.98d04c27eabad4f611c8.jpg",
     "static/media/nilegarden.jpg": "/PortfolioSite2024/static/media/nilegarden.112d4c9373c2c16ced87.jpg",
     "static/media/000004.jpg": "/PortfolioSite2024/static/media/000004.09e75314a27ddf40b7bf.jpg",
+    "static/media/mrx.jpeg": "/PortfolioSite2024/static/media/mrx.5319f9b0e6ed35df356f.jpeg",
     "static/media/38820006ys.jpg": "/PortfolioSite2024/static/media/38820006ys.b1091186a7ccaf26edf8.jpg",
     "static/media/introphoto.jpg": "/PortfolioSite2024/static/media/introphoto.6e2416884df7102bb18e.jpg",
     "static/media/tcddesignguideline.png": "/PortfolioSite2024/static/media/tcddesignguideline.a12ddfaa1ffe985e1c21.png",
@@ -48,6 +50,7 @@
     "static/media/meizu.jpg": "/PortfolioSite2024/static/media/meizu.68bbb4c58e5acda3ffd3.jpg",
     "static/media/computer_desk.jpg": "/PortfolioSite2024/static/media/computer_desk.3d3a66d839c810009e90.jpg",
     "static/media/computerdesk.jpg": "/PortfolioSite2024/static/media/computerdesk.3d3a66d839c810009e90.jpg",
+    "static/media/testdrive2.jpg": "/PortfolioSite2024/static/media/testdrive2.720d6f86fb5f4cf72cb3.jpg",
     "static/media/cystalball.jpg": "/PortfolioSite2024/static/media/cystalball.3b9498dd53319f1cfe13.jpg",
     "static/media/uiux.jpg": "/PortfolioSite2024/static/media/uiux.fd7a4a8ef010f1938293.jpg",
     "static/media/gracie_headshot.jpg": "/PortfolioSite2024/static/media/gracie_headshot.6698c662ea0f75c23c62.jpg",
@@ -66,6 +69,7 @@
     "static/media/Gracie Guan_Resume.pdf": "/PortfolioSite2024/static/media/Gracie Guan_Resume.76eb07f0f260256f601f.pdf",
     "static/media/strategy.jpg": "/PortfolioSite2024/static/media/strategy.64d17b8ae8847eee514d.jpg",
     "static/media/tcdsitemap.jpg": "/PortfolioSite2024/static/media/tcdsitemap.0ebfd5df7bb830bf003f.jpg",
+    "static/media/gracie_headshot_home.jpg": "/PortfolioSite2024/static/media/gracie_headshot_home.119c172b7ecff6410156.jpg",
     "static/media/techstack.jpg": "/PortfolioSite2024/static/media/techstack.82fe5aa0313387662352.jpg",
     "static/media/tcdpersonas.png": "/PortfolioSite2024/static/media/tcdpersonas.84e291f325d2cbad535f.png",
     "static/media/headphone.jpg": "/PortfolioSite2024/static/media/headphone.394745e4e6d50aef2d9e.jpg",
@@ -254,12 +258,12 @@
     "static/media/IBMPlexMono-Regular-Latin3.woff2": "/PortfolioSite2024/static/media/IBMPlexMono-Regular-Latin3.cacfd1d7dbd14067b970.woff2",
     "static/media/logo_white.svg": "/PortfolioSite2024/static/media/logo_white.c0d5d12deaf24e9c63bb7ec160f514b2.svg",
     "index.html": "/PortfolioSite2024/index.html",
-    "main.813849d2.css.map": "/PortfolioSite2024/static/css/main.813849d2.css.map",
-    "main.5e0a3654.js.map": "/PortfolioSite2024/static/js/main.5e0a3654.js.map",
+    "main.3ea3680e.css.map": "/PortfolioSite2024/static/css/main.3ea3680e.css.map",
+    "main.55bb77c8.js.map": "/PortfolioSite2024/static/js/main.55bb77c8.js.map",
     "453.7476e934.chunk.js.map": "/PortfolioSite2024/static/js/453.7476e934.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.813849d2.css",
-    "static/js/main.5e0a3654.js"
+    "static/css/main.3ea3680e.css",
+    "static/js/main.55bb77c8.js"
   ]
 }
