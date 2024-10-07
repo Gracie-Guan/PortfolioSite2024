@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioSite2024/static/css/main.3ea3680e.css",
-    "main.js": "/PortfolioSite2024/static/js/main.d8b046a4.js",
+    "main.css": "/PortfolioSite2024/static/css/main.aa307321.css",
+    "main.js": "/PortfolioSite2024/static/js/main.cc6cf494.js",
     "static/js/453.7476e934.chunk.js": "/PortfolioSite2024/static/js/453.7476e934.chunk.js",
     "static/media/vc4.gif": "/PortfolioSite2024/static/media/vc4.e2e976305c2f0cd18d52.gif",
     "static/media/shoes.png": "/PortfolioSite2024/static/media/shoes.974d27bc595388424600.png",
@@ -14,7 +14,6 @@
     "static/media/FinalDesign.png": "/PortfolioSite2024/static/media/FinalDesign.494733b06aec1cf1c9b6.png",
     "static/media/Wireframe.png": "/PortfolioSite2024/static/media/Wireframe.30e5d123ed2408c8ff2d.png",
     "static/media/Final-A3-Yunyi-Guan2.jpg": "/PortfolioSite2024/static/media/Final-A3-Yunyi-Guan2.58290de45cdfa842598f.jpg",
-    "static/media/launch2.jpg": "/PortfolioSite2024/static/media/launch2.8c962e6969a93798a6fb.jpg",
     "static/media/visualcomputing1.png": "/PortfolioSite2024/static/media/visualcomputing1.5d45008f2f2464079630.png",
     "static/media/nothingphone.jpg": "/PortfolioSite2024/static/media/nothingphone.2bc3b63b85f283b54b48.jpg",
     "static/media/test_drive.png": "/PortfolioSite2024/static/media/test_drive.5ee77c7055a2e65448d8.png",
@@ -44,6 +43,7 @@
     "static/media/room.jpg": "/PortfolioSite2024/static/media/room.21b354e88fa2c2e0009a.jpg",
     "static/media/tcdwireframe.png": "/PortfolioSite2024/static/media/tcdwireframe.147f87f3cff6043bf4bc.png",
     "static/media/8-4.jpg": "/PortfolioSite2024/static/media/8-4.130711aadde1d88a91d9.jpg",
+    "static/media/launch2.jpg": "/PortfolioSite2024/static/media/launch2.46070099629c9ececefe.jpg",
     "static/media/lake.jpg": "/PortfolioSite2024/static/media/lake.807ae5ae2ecce6dfb513.jpg",
     "static/media/000032.jpg": "/PortfolioSite2024/static/media/000032.6dbafb2642f2bd9d6a26.jpg",
     "static/media/IMG_4965.jpg": "/PortfolioSite2024/static/media/IMG_4965.01165d39ca8d3a9472cb.jpg",
@@ -257,12 +257,12 @@
     "static/media/IBMPlexMono-Regular-Latin3.woff2": "/PortfolioSite2024/static/media/IBMPlexMono-Regular-Latin3.cacfd1d7dbd14067b970.woff2",
     "static/media/logo_white.svg": "/PortfolioSite2024/static/media/logo_white.c0d5d12deaf24e9c63bb7ec160f514b2.svg",
     "index.html": "/PortfolioSite2024/index.html",
-    "main.3ea3680e.css.map": "/PortfolioSite2024/static/css/main.3ea3680e.css.map",
-    "main.d8b046a4.js.map": "/PortfolioSite2024/static/js/main.d8b046a4.js.map",
+    "main.aa307321.css.map": "/PortfolioSite2024/static/css/main.aa307321.css.map",
+    "main.cc6cf494.js.map": "/PortfolioSite2024/static/js/main.cc6cf494.js.map",
     "453.7476e934.chunk.js.map": "/PortfolioSite2024/static/js/453.7476e934.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ea3680e.css",
-    "static/js/main.d8b046a4.js"
+    "static/css/main.aa307321.css",
+    "static/js/main.cc6cf494.js"
   ]
 }
